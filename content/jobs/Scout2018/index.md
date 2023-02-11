@@ -1,12 +1,15 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2016-12-21'
+title: 'Travel Consultant'
+company: 'TravelZone Group'
+location: 'Rome, IT'
+range: 'Mar 2019 - Mar 2020'
+url: 'https://www.travelzonegroup.com'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Took charge of meeting clients at the airport, train station, or bus terminal
+- Ensured tourists and travelers settle into their hotels comfortably
+- Explained the itinerary and schedule of the travel
+- Provided significant information about each destination or attraction visited with emphasis on its cultural and historical meaning; Handled emergency situations
+- Managed sudden changes or modifications to the tour
+- Provided sales for the extra tours; Generated reports for the travel agency.
