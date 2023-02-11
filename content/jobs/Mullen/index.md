@@ -1,12 +1,13 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2014-02-01'
+title: 'Software Developer'
+company: '8digits 2014'
+location: 'Istanbul, TR'
+range: 'Feb - Aug 2014'
+url: 'https://www.hellosmpl.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Designed and updated software database
+- Tested, maintained and recommended software improvements to ensure functionality and optimization
+- Identified ideas to improve system performance and impact availability
+- Clearly and regularly communicated with management and technical support colleagues.
